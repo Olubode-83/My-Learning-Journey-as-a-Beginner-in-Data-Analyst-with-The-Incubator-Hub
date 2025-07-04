@@ -12,6 +12,6 @@ Please note that, this project is still ongoing
 The dataset used in carrying out the task was supplied by DSA to further my training.
 ### Tools Used
 The project analysis was carried out using some analysis tools such as, MS Evcel for the data set cleaning, structuring and tables presentations
-•	MS Excel was used for the data set cleaning, structuring and tables presentations
-o	MS Excel for data analysis cleaning{download here](https;//www.microsoft.com)
-	MS Excel was used for data collection
+  MS Excel was used for the data set cleaning, structuring and tables presentations
+    MS Excel for data analysis cleaning{download here](https;//www.microsoft.com)
+    MS Excel was used for data collection
