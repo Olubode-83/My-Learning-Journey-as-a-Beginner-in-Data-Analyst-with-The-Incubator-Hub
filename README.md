@@ -15,4 +15,5 @@ The project analysis was carried out using some analysis tools such as, MS Evcel
   MS Excel was used for the data set cleaning, structuring and tables presentations
   MS Excel for data analysis cleaning{download here](https;//www.microsoft.com)
   MS Excel was used for data collection
+ ### Data Analysed Using Pivot Table
 
