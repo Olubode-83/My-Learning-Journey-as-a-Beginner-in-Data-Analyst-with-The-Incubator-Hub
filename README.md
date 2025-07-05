@@ -15,6 +15,11 @@ The project analysis was carried out using some analysis tools such as, MS Evcel
   MS Excel was used for the data set cleaning, structuring and tables presentations
   MS Excel for data analysis cleaning{download here](https;//www.microsoft.com)
   MS Excel was used for data collection
+
  ### Data Analysed Using Pivot Table
 
+
+[Amazon Products Review Analysis  Pivot Table.xlsx](https://github.com/user-attachments/files/21082868/Amazon.Products.Review.Analysis.Pivot.Table.xlsx)
+
+[Amazon Products Review Analysis  Dashboard.xlsx](https://github.com/user-attachments/files/21082898/Amazon.Products.Review.Analysis.Dashboard.xlsx)
 
